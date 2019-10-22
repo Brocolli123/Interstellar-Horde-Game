@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 23c9801a412fe60449c6d12120015bdc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - shotPrefab: {fileID: 3247766714115820993, guid: deb438e1d2e3ee4449b00cb7045d4b90,
+      type: 3}
+  - audioSource: {fileID: 4224327424995215280, guid: f8234ac362076de489d6bde480db624b,
+      type: 3}
+  - fire3: {fileID: 8300000, guid: e0caf2b1e37bff04194750c43387386e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
